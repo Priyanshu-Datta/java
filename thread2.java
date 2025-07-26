@@ -1,3 +1,6 @@
+import runthread;
+
+package java;
 class runthread extends Thread{
 	
 	public void run(){

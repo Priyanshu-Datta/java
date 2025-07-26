@@ -1,3 +1,4 @@
+package java;
 class runthread implements Runnable{
 	
 	public void run(){
